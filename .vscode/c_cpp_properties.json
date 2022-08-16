@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
+                    "C:\\Users\\youne\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src",
+                    "C:\\Users\\youne\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries",
+                    "C:\\Users\\youne\\Documents\\Arduino\\libraries\\WiFiManager",
+                    "C:\\Users\\youne\\Documents\\Arduino\\libraries\\ArduinoJson",                
+                    "C:\\Users\\youne\\Documents\\Arduino\\libraries\\WebSockets",
+                    "C:\\Users\\youne\\Documents\\Arduino\\libraries\\SocketIoClient",
+                    "${workspaceRoot}",
+                    "${workspaceFolder}/**"
+                ]
+            },
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
